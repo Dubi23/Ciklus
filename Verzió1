@@ -3,5 +3,7 @@
 szam = int(input("Kérem az első számot"))
 szam1 = int(input("Kérem a második számot"))
 
-if szam = szam2
-prin(Egyenlőek)
+if szam == szam1:
+    print("Egyenlőek")
+else:
+    print("Nem egyenlő")
